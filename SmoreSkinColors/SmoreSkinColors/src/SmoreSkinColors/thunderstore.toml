@@ -1,5 +1,5 @@
 [config]
-schemaVersion = "1.0.0"
+schemaVersion = "1.2.2"
 
 [general]
 repository = "https://thunderstore.io"
@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "figgies"
 name = "SmoreSkinColors"
-description = "TODO: Fill in short mod description."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+description = "Hungry for S'more? Adds 40 new skin colors!!!"
+websiteUrl = "https://github.com/figgies/SmoreSkinColors"
 containsNsfwContent = false
 
 [package.dependencies]

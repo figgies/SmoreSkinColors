@@ -56,23 +56,35 @@ namespace ColorMod
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_PastelOrange", new Color32(byte.MaxValue, 156, 89, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_PastelBlue", new Color32(167, 199, 231, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_PastelPink", new Color32(253, 180, 187, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_PastelGreen(Ralsei)", new Color32(77, 204, 142, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_RalseiGreen(Darker)", new Color32(56, 112, 94, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_WildBerry", new Color32(36, 21, 113, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Sapphire", new Color32(82, 178, 191, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Aquamarine", new Color32(123, 253, 199, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_LightCyan?", new Color32(123, 253, 199, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Rose", new Color32(227, 36, 43, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Ruby", new Color32(144, 6, 3, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Blush", new Color32(188, 84, 75, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Pear", new Color32(209, 226, 49, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Pickle", new Color32(89, 125, 53, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_Chartreuse", new Color32(204, 255, 0, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Pine", new Color32(35, 79, 30, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_MossGreen", new Color32(126, 140, 84, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Parakeet", new Color32(3, 192, 74, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Orchid", new Color32(218, 112, 214, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_SusiePurple", new Color32(136, 23, 106, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_SusiePink", new Color32(248, 131, 215, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Heather", new Color32(158, 123, 181, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Honey", new Color32(249, 201, 1, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_BurntSienna", new Color32(187, 55, 38, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Clay", new Color32(137, 49, 1, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_KrisBlue", new Color32(11, 11, 59, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_KrisLightBlue", new Color32(117, 251, 237, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_Black", new Color32(byte.MaxValue, byte.MaxValue, byte.MaxValue, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_DarkGrey", new Color32(79, 79, 79, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_LightGrey", new Color32(111, 111, 111, 1));
                 Plugin.Patcher.CreateSkinOption(customization, "Skin_White", new Color32(0, 0, 0, 1));
+                Plugin.Patcher.CreateSkinOption(customization, "Skin_PanBlue", new Color32(117, 132, 229, 1));
             }
         }
     }
